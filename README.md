@@ -17,7 +17,6 @@ Prototype physics engine in C++ using only Windows API (windows.h)
 Compile using any Windows C++ compiler (e.g., MinGW / `g++` or MSVC):
 
 ```bash
-g++ main.cpp -o engine.exe -lgdi32 -luser32
+g++ *.cpp -o main.exe -lgdi32 -luser322
 ```
-```
-its also my first real project in C++ 
+
